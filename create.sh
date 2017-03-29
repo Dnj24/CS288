@@ -1,3 +1,8 @@
+#Write a Linux Bash script, create.sh which creates a directory tree with depth d and breadth b in a programmable depth/breadth-first 
+#fashion, where depth-first or breadth-first can be crontrolled by a command line parameter. Depth refers to the level of the directory tree
+#while breadth refers to the number of directories a directory may have. Use d and b between 3 and 5 inclusive for testing purposes.
+
+
 #!/bin/bash
 
 d=$1            #depth is 1st positional param
