@@ -1,3 +1,5 @@
+#Build a table of counters for the commands under /bin in alphabetical order. Use loop and array to design and implement the script.  
+
 #!/bin/bash
 
 letters=(a b c d e f g h i j k l m n o p q r s t u v w x y z)
